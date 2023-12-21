@@ -1,0 +1,1 @@
+This is a console application in Java that handles Wallet functionalities.
